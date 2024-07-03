@@ -1,2 +1,2 @@
 # Netflix
-Clone application using just HTML and CSS concepts
+Clone application using just raw HTML and CSS.
