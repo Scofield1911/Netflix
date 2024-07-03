@@ -1,4 +1,2 @@
 # Netflix
-
-This is my first commit
-this is my second commit
+Clone application using just HTML and CSS concepts
